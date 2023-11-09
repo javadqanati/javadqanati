@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @javadqanati
+- 👀 I’m interested in being a better person
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on companies which need their data analysed as an intern
+- 📫 How to reach me mjavadqanati@gmail.com
