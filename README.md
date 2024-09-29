@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javadqanati
+- 👋 Hi, I’m @javadqanati, but you can call me Rayan😉
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on companies which need their data analysed as an intern
 - 📫 How to reach me mjavadqanati@gmail.com
