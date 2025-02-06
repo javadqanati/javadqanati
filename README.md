@@ -2,6 +2,7 @@
 
 I'm a Data Analysis student at the University of Messina (UNIME) with a passion for data science and machine learning. I enjoy exploring data, building models, and turning insights into actionable outcomes.
 
+https://github-readme-stats.vercel.app/api?username=javadqanati&show_icons=true
 ## 🔭 Current Projects
 
 - **Project Space Y**: A Jupyter Notebook project delving into deep learning, k-means clustering and data visualization.
