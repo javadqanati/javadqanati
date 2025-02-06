@@ -3,7 +3,7 @@
 I'm a Data Analysis student at the University of Messina (UNIME) with a passion for data science and machine learning. I enjoy exploring data, building models, and turning insights into actionable outcomes.
 
 [![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&theme=radical)](https://github.com/javadqanati/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical&width=1000&height=700)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical)
 
 
 <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/c/c-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50">
