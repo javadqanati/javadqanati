@@ -4,6 +4,8 @@ I'm a Data Analysis student at the University of Messina (UNIME) with a passion 
 
 [![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&theme=radical)](https://github.com/javadqanati/github-readme-stats)
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A74DA?style=flat&logo=tensorflow&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
