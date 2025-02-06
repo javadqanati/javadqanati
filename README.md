@@ -5,8 +5,10 @@ I'm a Data Analysis student at the University of Messina (UNIME) with a passion 
 [![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&theme=radical)](https://github.com/javadqanati/github-readme-stats)
 
 <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="30" height="30">
-
-
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/c/c-original.svg" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jupyter/jupyter-original.svg" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="30" height="30">
 
 ## 🔭 Current Projects
 
