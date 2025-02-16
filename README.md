@@ -6,7 +6,15 @@ I'm a Data Analysis student at the University of Messina (UNIME) with a passion 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical)
 
 
-<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/c/c-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50">    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/c/c-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" width="50" height="50">
 
 ## 🔭 Current Projects
 
