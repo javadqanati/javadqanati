@@ -1,40 +1,68 @@
-# Hi there, I'm Rayan! 👋
+# 👋 Hi there, I’m Mohammadjavad (Rayan) Qanati
 
-I'm a Data Analysis student at the University of Messina (UNIME) with a passion for data science and machine learning. I enjoy exploring data, building models, and turning insights into actionable outcomes.
+I’m a Computer Science undergrad at the University of Messina (UNIME), specializing in **Data Analysis** and **Machine Learning**.  
+I love turning raw data into insights, building predictive models, and—when I need a break—diving into Java-based game dev.
 
-[![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&theme=radical&width=400&height=100)](https://github.com/javadqanati/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical)
+---
 
+## 📊 GitHub Stats
 
-<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/c/c-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/php/php-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" width="50" height="50">
+<!-- GitHub Readme Stats -->
+[![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&show_icons=true&theme=radical&count_private=true)](https://github.com/javadqanati)  
+<!-- Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javadqanati&theme=radical)](https://git.io/streak-stats)  
+<!-- Activity Graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=javadqanati&bg_color=radical&color=white&line=white&point=white&area=true)
+
+---
+
+## 🛠️ Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical&langs_count=8)
+
+---
 
 ## 🔭 Current Projects
 
-- **Project Space Y**: A Jupyter Notebook project delving into deep learning, k-means clustering and data visualization.
-- **My First Neural Network**: Developed as part of a university course exam, this project showcases the ability to understand the basic theory and methods to applying a neural network.
-- **E-commerce Database Management**: A PHP-based project focusing on Database management with MySQL, completed for a university course exam.
+- **Maze Dream Paradox**  
+  A Java/Swing 2D maze game built with OOP principles in my university OOP course.  
+  [Repo →](https://github.com/javadqanati/Dream_Paradox_Maze)
 
-## 🌱 Learning Journey
+- **Project Space Y**  
+  Jupyter Notebook exploring k‑means clustering and deep learning workflows.  
+  [Repo →](https://github.com/javadqanati/Project-Space-Y)
 
-I'm currently enhancing my skills in:
+- **E‑commerce Database Management**  
+  PHP/MySQL application modeling an online store’s backend. Built for my Database course.  
+  [Repo →](https://github.com/javadqanati/Ecommerce-DB)
 
-- **C Programming**: Deepening my understanding of low-level programming concepts.
-- **Machine Learning**: Exploring algorithms and model development.
-- **Data Visualization**: Creating insightful and compelling data stories.
+---
 
-## 💬 Let's Collaborate!
+## 🌱 Learning & Growth
 
-I'm eager to collaborate on projects involving:
+- **C Programming** – mastering pointers and low‑level memory management  
+- **Deep Learning** – diving into CNNs & RNNs  
+- **Data Visualization** – crafting interactive dashboards  
 
-- **Data Analysis**: Transforming raw data into meaningful insights.
-- **Machine Learning**: Developing predictive models and intelligent systems.
-- **Open Source Contributions**: Participating in community-driven projects.
+---
+
+## 💬 Let’s Collaborate!
+
+I’m open to collaborating on:
+
+- Data Analysis & Visualization  
+- Machine Learning & AI  
+- Open‑Source Java/Game‑Dev projects  
+
+---
 
 ## 📫 Get in Touch
 
-- **Email**: [mjavadqanati@gmail.com](mailto:mjavadqanati@gmail.com)
-- **LinkedIn**: [Mohammadjavad (Rayan) Qanati](https://www.linkedin.com/in/mohammadjavad-qanati-2313231a1/)
+- ✉️ [mjavadqanati@gmail.com](mailto:mjavadqanati@gmail.com)  
+- 🔗 [LinkedIn: Mohammadjavad (Rayan) Qanati](https://www.linkedin.com/in/mohammadjavad-qanati-2313231a1/)  
+- 🌐 [javadqanati.github.io](https://javadqanati.github.io/) *(if you have a personal site)*
 
-Feel free to reach out if you'd like to discuss data science, machine learning, or potential collaborations. Let's connect and create something amazing together!
+---
 
+*“Data is the new oil, but it’s worthless until refined.”*  
+— Adapted from Clive Humby  
