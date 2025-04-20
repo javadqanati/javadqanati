@@ -12,7 +12,7 @@ I love turning raw data into insights, building predictive models, and—when I 
 <!-- Streak Stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javadqanati&theme=radical)](https://git.io/streak-stats)  
 <!-- Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=javadqanati&bg_color=radical&color=white&line=white&point=white&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javadqanati&theme=radical)
 
 ---
 
@@ -60,7 +60,7 @@ I’m open to collaborating on:
 
 - ✉️ [mjavadqanati@gmail.com](mailto:mjavadqanati@gmail.com)  
 - 🔗 [LinkedIn: Mohammadjavad (Rayan) Qanati](https://www.linkedin.com/in/mohammadjavad-qanati-2313231a1/)  
-- 🌐 [javadqanati.github.io](https://javadqanati.github.io/) *(if you have a personal site)*
+- 🌐 [javadqanati.github.io](https://javadqanati.github.io/) 
 
 ---
 
