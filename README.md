@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohammadjavad Rayan Qanati!
+# 👋 Hi there, I'm Rayan!
 
 Welcome to my GitHub profile! I'm a passionate developer and problem-solver with a love for creating innovative projects and exploring new technologies. This is where I showcase my work, contributions, and ongoing projects.
 
