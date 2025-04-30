@@ -1,68 +1,79 @@
-# 👋 Hi there, I’m Mohammadjavad (Rayan) Qanati
+# 👋 Hi there, I'm Mohammadjavad Rayan Qanati!
 
-I’m a Computer Science undergrad at the University of Messina (UNIME), specializing in **Data Analysis** and **Machine Learning**.  
-I love turning raw data into insights, building predictive models, and—when I need a break—diving into Java-based game dev.
+Welcome to my GitHub profile! I'm a passionate developer and problem-solver with a love for creating innovative projects and exploring new technologies. This is where I showcase my work, contributions, and ongoing projects.
+
+---
+
+## 🌟 About Me
+- 🎓 University Graduate with expertise in Object-Oriented Programming and Data Analysis.
+- 💻 Passionate about coding, data science, and building impactful software solutions.
+- 🚀 Currently exploring neural networks and advanced algorithms.
+- 🌐 I enjoy collaborating on projects that challenge me to learn and grow.
+
+---
+
+## 🔧 Skills and Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my most exciting projects:
+
+### [🔗 Dream Paradox Maze](https://github.com/javadqanati/Dream_Paradox_Maze)
+An Object-Oriented Program designed for a university course exam. The project challenges users with a paradoxical maze-solving experience.  
+**Language**: Java
+
+---
+
+### [🔗 Project Space-Y](https://github.com/javadqanati/Project-Space-Y)
+Using SpaceX data, this project predicts the success or failure of upcoming launches. It helps companies prevent failures and save resources.  
+**Languages**: Jupyter Notebook, Python
+
+---
+
+### [🔗 E-commerce Database Management](https://github.com/javadqanati/E-commerce-Database-Management)
+A PHP-based project to manage and simulate database operations for e-commerce platforms.  
+**Languages**: PHP, CSS
+
+---
+
+### [🔗 Retail Industry](https://github.com/javadqanati/Retail-Industry)
+A PHP project developed as part of a university course exam. It showcases database management and backend logic implementation.  
+**Language**: PHP
+
+---
+
+### [🔗 My First Neural Network](https://github.com/javadqanati/My-First-Neural-Network)
+This project explores the basics of neural networks and machine learning models.  
+**Description**: Part of a university course exam.  
+**Language**: Python
+
+---
+
+### [🔗 Codes](https://github.com/javadqanati/Codes)
+A collection of C programming projects.  
+**Language**: C
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Readme Stats -->
-[![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&show_icons=true&theme=radical&count_private=true)](https://github.com/javadqanati)  
-<!-- Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javadqanati&theme=radical)](https://git.io/streak-stats)  
-<!-- Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=javadqanati&theme=radical)
+![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadqanati&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🛠️ Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javadqanati&layout=compact&theme=radical&langs_count=8)
-
----
-
-## 🔭 Current Projects
-
-- **Maze Dream Paradox**  
-  A Java/Swing 2D maze game built with OOP principles in my university OOP course.  
-  [Repo →](https://github.com/javadqanati/Dream_Paradox_Maze)
-
-- **Project Space Y**  
-  Jupyter Notebook exploring k‑means clustering and deep learning workflows.  
-  [Repo →](https://github.com/javadqanati/Project-Space-Y)
-
-- **E‑commerce Database Management**  
-  PHP/MySQL application modeling an online store’s backend. Built for my Database course.  
-  [Repo →](https://github.com/javadqanati/Ecommerce-DB)
+## 🤝 Connect with Me
+- [LinkedIn](https://linkedin.com/in/javadqanati)
+- [Email Me](mailto:javad@example.com)
 
 ---
 
-## 🌱 Learning & Growth
-
-- **C Programming** – mastering pointers and low‑level memory management  
-- **Deep Learning** – diving into CNNs & RNNs  
-- **Data Visualization** – crafting interactive dashboards  
-
----
-
-## 💬 Let’s Collaborate!
-
-I’m open to collaborating on:
-
-- Data Analysis & Visualization  
-- Machine Learning & AI  
-- Open‑Source Java/Game‑Dev projects  
-
----
-
-## 📫 Get in Touch
-
-- ✉️ [mjavadqanati@gmail.com](mailto:mjavadqanati@gmail.com)  
-- 🔗 [LinkedIn: Mohammadjavad (Rayan) Qanati](https://www.linkedin.com/in/mohammadjavad-qanati-2313231a1/)  
-- 🌐 [javadqanati.github.io](https://javadqanati.github.io/) 
-
----
-
-*“Data is the new oil, but it’s worthless until refined.”*  
-— Adapted from Clive Humby  
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, contribute to my projects, or reach out to collaborate. Let's build something amazing together! 🚀
